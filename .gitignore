@@ -2,6 +2,7 @@
 .idea/workspace.xml
 workspace.xml
 *.db
+19447_31436_bundle_archive/
 human_activity/
 train_santander.csv
 소상공인_201906/
@@ -16,6 +17,8 @@ model/
 ko.bin
 ko.tsv
 GoogleNews-vectors-negative300.bin
+preview/
+
 
 dataset/
 # Byte-compiled / optimized / DLL files
